@@ -1,0 +1,9 @@
+item.Spade.name=Spade
+spade.tooltip.0=Weeding Trowel, Shovel and Hoe in one Item!
+spade.tooltip.1=Has a higher chance of yielding seed bags!
+spade.tooltip.2=Indestructible
+
+item.cppLens.name=Plant Lens
+lens.tooltip.0=A Simple Lens to determine Crop Species
+lens.tooltip.1=Indestructible
+
